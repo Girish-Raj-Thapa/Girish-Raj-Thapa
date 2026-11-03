@@ -1,43 +1,47 @@
-<h1 align="center">Hi 👋, I'm Girish Raj Thapa</h1>
-<h3 align="center">Aspiring Django Developer with a solid foundation in Python and a passion for backend development.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=girish-raj-thapa&label=Profile%20views&color=0e75b6&style=flat" alt="girish-raj-thapa" /> </p>
+# Hi 👋, I'm Girish Raj Thapa
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=girish-raj-thapa" alt="girish-raj-thapa" /></a> </p>
+### Associate Software Engineer at Kodiary Technologies · Lalitpur, Nepal
 
-- 🌱 I’m currently learning **AWS Cloud Practitioner, Responsive Web Design,**
+<p>Specializing in Backend Systems, Clean Architecture, Modern Web Frameworks, and Computer Vision pipelines.</p>
 
-- 💬 Ask me about **python, Django, Django Rest Framework, MySQL**
+[![Email](https://img.shields.io/badge/Email-girishrajthapa03033%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:girishrajthapa03033@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/girish-raj-thapa-a3222528a)
+[![Profile Views](https://komarev.com/ghpvc/?username=girish-raj-thapa&label=Profile%20Views&color=7ee0b5&style=for-the-badge)](https://github.com/Girish-Raj-Thapa)
 
-- 📫 How to reach me **girishrajthapa03033@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/girish-raj-thapa-a3222528a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="girish raj thapa" height="30" width="40" /></a>
-<a href="https://www.instagram.com/grish_thapz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="girish raj thapa" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### ⚡ Technical Capabilities & Domains
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=girish-raj-thapa&show_icons=true&locale=en&layout=compact" alt="girish-raj-thapa" /></p>
+- 💼 **Role:** Associate Software Engineer at **Kodiary Technologies**
+- 🏗️ **Backend & Architecture:** .NET / C# (Web API), Python (`FastAPI`, `Django`, `DRF`), Clean Architecture, Microservices, CQRS, and Idempotent RESTful APIs
+- 🎨 **Frontend & UI:** TypeScript, Next.js, React, Vue.js, Nuxt.js, and Tailwind CSS
+- 🗄️ **Databases & Task Queues:** PostgreSQL, Redis, RabbitMQ, Celery, Bull Queue, MongoDB, and MinIO (S3 storage)
+- 🤖 **AI & Vision:** Computer Vision (`FastSAM`, `docTR OCR`), RAG Pipelines, LangChain, LangGraph, and Pandas / NumPy
+- 🛠️ **DevOps & Tooling:** Docker, Nginx, Linux, Git / GitHub / GitLab, Stripe API, and Postman
+- 💬 **Ask Me About:** Asynchronous Queues, Modern Frontend & Backend Architecture, and API Performance
+- 📫 **Direct Contact:** [girishrajthapa03033@gmail.com](mailto:girishrajthapa03033@gmail.com)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=girish-raj-thapa&show_icons=true&locale=en" alt="girish-raj-thapa" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=girish-raj-thapa&" alt="girish-raj-thapa" /></p>
+### 🛠️ Languages & Tools
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,dotnet,cs,ts,js,react,nextjs,vue,nuxtjs,tailwind,postgres,redis,rabbitmq,docker,nginx,git,postman,linux&perline=10&theme=dark" alt="Girish's Tech Stack" />
+</div>
 
-<!--
-**Girish-Raj-Thapa/Girish-Raj-Thapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📊 GitHub Activity & Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=girish-raj-thapa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=girish-raj-thapa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</div>
+
+<div align="center" style="margin-top: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=girish-raj-thapa&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+</div>
